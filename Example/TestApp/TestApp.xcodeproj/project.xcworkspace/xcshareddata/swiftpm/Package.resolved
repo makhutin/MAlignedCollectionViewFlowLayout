@@ -1,0 +1,15 @@
+{
+  "originHash" : "9062b9a1662440eff4bc9bb7afdf9cc4c7c17943ec648048b2df1f497a695a6a",
+  "pins" : [
+    {
+      "identity" : "malignedcollectionviewflowlayout",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/makhutin/MAlignedCollectionViewFlowLayout/",
+      "state" : {
+        "branch" : "main",
+        "revision" : "c113063e0657a67b84b3bb8055b25a6142c3adfb"
+      }
+    }
+  ],
+  "version" : 3
+}
