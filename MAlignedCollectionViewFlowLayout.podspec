@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = "MAlignedCollectionViewFlowLayout"
-  spec.version      = "1.0.0"
+  spec.version      = "1.0.1"
   spec.summary      = "Overridden implementation of the standard UICollectionViewFlowLayout that aligns elements."
 
   spec.homepage     = "https://github.com/makhutin/MAlignedCollectionViewFlowLayout"
@@ -14,5 +14,5 @@ Pod::Spec.new do |spec|
   spec.ios.deployment_target = "10.0"
 
   spec.source       = { :git => "https://github.com/makhutin/MAlignedCollectionViewFlowLayout.git", :tag => "#{spec.version}" }
-  spec.source_files  = "MAlignedCollectionViewFlowLayout/Classes", "MAlignedCollectionViewFlowLayout/Classes/**/*.{h,m}"
+  spec.source_files    = "MAlignedCollectionViewFlowLayout/Classes/**/*"
 end
